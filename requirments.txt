@@ -1,3 +1,5 @@
 spacy_transformers
 spacy
 scikit-learn
+cupy-cuda12x
+PyMuPDF
