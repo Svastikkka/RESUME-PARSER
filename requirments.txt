@@ -3,3 +3,6 @@ spacy
 scikit-learn
 cupy-cuda12x
 PyMuPDF
+fitz
+frontend
+tools
